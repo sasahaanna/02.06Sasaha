@@ -1,0 +1,97 @@
+body{
+font-family: Comic Sans MS, Comic Sans, cursive;
+}
+header{
+	background-color: green;
+	height: 40px;
+}
+.znyzhka{
+	background-color: darkgreen;
+	position: absolute;
+	height: 40px;
+	width: 160px;
+	right: 50px;
+
+
+}
+.znyzhkatext{
+	color: white;
+}
+ul{
+	text-align: center;
+	list-style-type: none;
+}
+li{
+	display: inline;
+	padding: 3%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.baner{
+	background-image: url(banerkava.jpg);
+	height: 350px;
+}
+p{
+	color: white;
+}
+#company{
+	padding-top: 110px;
+	font-size: 24px;
+	margin-left: 50%;
+}
+#category{
+	margin-left: 50%;
+	font-size: 36px;
+	font-weight: bold;
+}
+#price{
+	margin-left: 50%;
+	border: 2px solid white;
+	color: white;
+	background-color: black;
+}
+.zaklyk{
+	background-image: url(fon.png);
+height: 100px;
+}
+#reestr{
+	font-size: 20px;
+	margin-top: 5px;
+	position: ;
+
+}
+#zaklykkava{
+	float: left;
+}
+.text_m{
+background-color: black;
+height: 220px;
+width: 25%;
+float: left;
+}
+.photo_m{
+	background-image: url(banerkava.jpg);
+	height: 220px;
+	width: 25%;
+	float: left;
+}
+.footer{
+		background-image: url(greenfon.png);
+}
+.phone{
+	margin-left: 60px;
+
+
+}
+.email{
+	margin-left: 300px;
+
+}
+#foot{
+		font-size: 30px;
+	color: black;
+position: absolute;
+		top: 995px;
+}
